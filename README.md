@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hello, My name is Cüneyt
+
+### I am a Full Stack Developer trainee for Allianz Turkey
+
+### I am learning Java, Springboot, SQL, Angular
+
+### I am very sufficient with JavaScript, TypeScript, React 
+
+## Contacts
+
+[![GitHub](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/github.svg)](https://github.com/mcuneytozturk)
+[![LinkedIn](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/muhsin-cuneyt-ozturk/)
+[![Instagram](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/instagram.svg)](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==)
+[![Facebook](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/facebook.svg)](https://www.facebook.com/mcuneytozturk?mibextid=ZbWKwL)
+[![Twitter](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/twitter.svg)](https://twitter.com/mcuneytozturk)
+
 
 <!--
 **mcuneytozturk/mcuneytozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
