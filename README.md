@@ -14,7 +14,9 @@
 
 - 📫 How to reach me:
 
-[![Instagram](https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/53e8ea5d-e040-4279-8d9b-93530297f97b)](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==)   [![Facebook](https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/4bda2e89-03b0-4db1-9f9d-b41b9c77ea30)](https://www.facebook.com/mcuneytozturk?mibextid=ZbWKwL)   [![Twitter](https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/dc747084-bc02-47e5-8a53-7edab1457f7c)](https://twitter.com/mcuneytozturk)
+<a href="https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg=="><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/53e8ea5d-e040-4279-8d9b-93530297f97b" alt="Instagram" width="40" height="40"></a>  
+<a href="https://www.facebook.com/mcuneytozturk?mibextid=ZbWKwL"><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/4bda2e89-03b0-4db1-9f9d-b41b9c77ea30" alt="Facebook" width="40" height="40"></a>
+
   
 
 ⚡ Fun fact: I am a former production engineer at food industry and now i am trying to make a career in tech.
