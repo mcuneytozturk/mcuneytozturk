@@ -10,7 +10,7 @@
 
 - ⚡ How to see my work:
 
-[![Github](https://img.shields.io/badge/Github-gray?logo=github)](https://github.com/mcuneytozturk)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhsin-cuneyt-ozturk/)
+[![Github](https://img.shields.io/badge/Github-gray?logo=github)](https://github.com/mcuneytozturk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhsin-cuneyt-ozturk/)
 
 - 📫 How to reach me:
 
