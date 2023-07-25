@@ -14,7 +14,8 @@
 
 - 📫 How to reach me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhsin-cuneyt-ozturk/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhsin-cuneyt-ozturk/) [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/mcuneytozturk) [![Facebook](https://img.shields.io/badge/Facebook-4267B2?logo=facebook&logoColor=white)](https://www.facebook.com/mcuneytozturk?mibextid=ZbWKwL)
+
 
 
 
