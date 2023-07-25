@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: ...
 
-![Github Badge](https://img.shields.io/badge/mcuneytozturk?logo=github&logoColor=gray&color=white&link=https%3A%2F%2Fgithub.com%2Fmcuneytozturk%2F)
+![Github Badge](file:///C:/Users/Muhsin%20C%C3%BCneyt%20%C3%96ZT%C3%9CRK/Downloads/github.svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/mcuneytozturk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhsin-cuneyt-ozturk/)
 [![Instagram](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/instagram.svg)](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==)
