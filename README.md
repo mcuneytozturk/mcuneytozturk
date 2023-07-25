@@ -10,12 +10,12 @@
 
 - ⚡ How to see my work:
 
-<a href="https://github.com/mcuneytozturk/"><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/c25b3480-50d9-4d51-a8b3-748601161736" alt="Github" width="40" height="40" style="background-color: white; border-radius: 5px;"></a>
+[![Github](https://img.shields.io/badge/Github-gray?logo=github)](https://github.com/mcuneytozturk)
 
 - 📫 How to reach me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcuneytozturk/) 
-[![Github](https://img.shields.io/badge/GitHub-gray)](https://github.com/mcuneytozturk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhsin-cuneyt-ozturk/) 
+
 
 
 
