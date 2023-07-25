@@ -14,9 +14,10 @@
 
 - 📫 How to reach me:
 
-[![Instagram](https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/53e8ea5d-e040-4279-8d9b-93530297f97b)](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==) [Instagram](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcuneytozturk/) 
+[![Github](https://img.shields.io/badge/GitHub-gray)](https://github.com/mcuneytozturk)
 
-[![Facebook](https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/4bda2e89-03b0-4db1-9f9d-b41b9c77ea30)](https://www.facebook.com/mcuneytozturk?mibextid=ZbWKwL) [Facebook](https://www.facebook.com/mcuneytozturk?mibextid=ZbWKwL)
+
 
 
 
