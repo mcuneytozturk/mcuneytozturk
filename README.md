@@ -1,12 +1,12 @@
 ## Hello, My name is Cüneyt
 
-### I am a Full Stack Developer trainee for Allianz Turkey
+- 🔭 I am a Full Stack Developer trainee for Allianz Turkey
 
-### I am learning Java, Springboot, SQL, Angular
+- 🌱 I am learning Java, Springboot, SQL, Angular
 
-### I am very sufficient with JavaScript, TypeScript, React 
+- 💬 Ask me about JavaScript, TypeScript, React 
 
-## Contacts
+- 📫 How to reach me: ...
 
 [![GitHub](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/github.svg)](https://github.com/mcuneytozturk)
 [![LinkedIn](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/muhsin-cuneyt-ozturk/)
