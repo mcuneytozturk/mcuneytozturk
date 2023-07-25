@@ -7,8 +7,9 @@
 - 💬 Ask me about JavaScript, TypeScript, React 
 
 - ⚡ How to see my work:
-- 
-<a href="https://github.com/mcuneytozturk/"><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/dd0350f6-7df8-4b5f-a826-fc2bf5540b80" alt="Github" width="40" height="40" style="background-color: white; border-radius: 5px;"></a>
+![image]()
+
+<a href="https://github.com/mcuneytozturk/"><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/c25b3480-50d9-4d51-a8b3-748601161736" alt="Github" width="40" height="40" style="background-color: white; border-radius: 5px;"></a>
 
 
 - 📫 How to reach me:
