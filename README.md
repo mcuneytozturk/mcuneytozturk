@@ -7,13 +7,13 @@
 - 💬 Ask me about JavaScript, TypeScript, React 
 
 - ⚡ How to see my work:
-
-<a href="https://github.com/mcuneytozturk/"><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/e86813d4-5c11-4b06-a01d-a2bbb6dd3d11" alt="Github" width="40" height="40" style="background-color: white; border-radius: 5px;"></a>
+- 
+<a href="https://github.com/mcuneytozturk/"><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/dd0350f6-7df8-4b5f-a826-fc2bf5540b80" alt="Github" width="40" height="40" style="background-color: white; border-radius: 5px;"></a>
 
 
 - 📫 How to reach me:
 
-<a href="https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg=="><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/53e8ea5d-e040-4279-8d9b-93530297f97b" alt="Instagram" width="40" height="40"></a><a href="https://www.facebook.com/mcuneytozturk?mibextid=ZbWKwL"><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/4bda2e89-03b0-4db1-9f9d-b41b9c77ea30" alt="Facebook" width="40" height="40"></a><a href="https://twitter.com/mcuneytozturk"><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/dc747084-bc02-47e5-8a53-7edab1457f7c" alt="Twitter" width="40" height="40"></a>    
+<a href="https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg=="><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/53e8ea5d-e040-4279-8d9b-93530297f97b" alt="Instagram" width="40" height="40"></a>  <a href="https://www.facebook.com/mcuneytozturk?mibextid=ZbWKwL"><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/4bda2e89-03b0-4db1-9f9d-b41b9c77ea30" alt="Facebook" width="40" height="40"></a>  <a href="https://twitter.com/mcuneytozturk"><img src="https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/dc747084-bc02-47e5-8a53-7edab1457f7c" alt="Twitter" width="40" height="40"></a>    
 
 
 
