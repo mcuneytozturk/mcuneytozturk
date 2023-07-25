@@ -6,11 +6,10 @@
 
 - 💬 Ask me about JavaScript, TypeScript, React 
 
-- 📫 How to reach me: ...
+- ⚡ How to see my work: 
+![Github](https://github.com/mcuneytozturk/mcuneytozturk/assets/117809236/b6c22d97-e729-4298-bd09-edfc8e8a6ef6)
 
-![Github Badge](file:///C:/Users/Muhsin%20C%C3%BCneyt%20%C3%96ZT%C3%9CRK/Downloads/github.svg)
-
-[![Linkedin Badge](https://img.shields.io/badge/mcuneytozturk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhsin-cuneyt-ozturk/)
+- 📫 How to reach me: 
 [![Instagram](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/instagram.svg)](https://instagram.com/mcuneytozturk?igshid=NGExMmI2YTkyZg==)
 [![Facebook](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/facebook.svg)](https://www.facebook.com/mcuneytozturk?mibextid=ZbWKwL)
 [![Twitter](https://cdn.jsdelivr.net/fontawesome/6.0.0-beta3/svgs/brands/twitter.svg)](https://twitter.com/mcuneytozturk)
